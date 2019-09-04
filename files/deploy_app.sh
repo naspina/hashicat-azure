@@ -4,14 +4,14 @@
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Meow!</title></head>
+  <head><title>CageWeb</title></head>
   <body>
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  <center><h2>I want to take his face...off.</h2></center>
+  Welcome to ${PREFIX}'s app. Why couldn’t you just put the Bunny back in the box? 
   <!-- END -->
   
   </div>
@@ -19,4 +19,4 @@ cat << EOM > /var/www/html/index.html
 </html>
 EOM
 
-echo "Script complete."
+echo "Script complete!"
